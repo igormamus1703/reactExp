@@ -1,7 +1,7 @@
 # reactExp
 
 
-primeiro navague até a pasta do backend:
+primeiro navegue até a pasta do backend:
 
 cd backend
 
@@ -13,7 +13,7 @@ para inicializar:
 
 npm start
 
-para o frontend a mesma coisa, só que navague até a pasta correta
+para o frontend a mesma coisa, só que navegue até a pasta correta
 
 cd frontend
 
